@@ -75,21 +75,6 @@
    
 }
 
-  #header .bot-header .intro button {
-    width:200px;
-    height: 40px;
-    margin:0px 10px;
-    margin-top:20px;
-    background:transparent;
-    border:1px solid #fff;
-    color:#fff;
-    transition: all 0.5s;
-}
-  #header .bot-header .intro button:hover {
-    background:#fff;
-    color:#000;
-}
-
 #content {
     margin-top:50px;
     padding:30px;

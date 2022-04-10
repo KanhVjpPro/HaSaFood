@@ -12,7 +12,7 @@
 }
  #header {
      background-image: url(./images/hada.png);
-     min-height: 600px;
+     min-height: 400px;
 }
   #header .top-header {
     display: flex;

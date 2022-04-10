@@ -60,15 +60,15 @@
 /* done */
   #header .bot-header { 
  height: 300px;
- display: block;
+ display: flex;
  justify-content: center;
  align-items: center;
 }
   #header .bot-header .intro {
-    width:40%;
+    width:80%;
     height: 30%;
     text-align: center;
-    padding-top:50px;
+    padding-top:90px;
     color:rgb(255, 255, 255);
     position:absolute;
     background:rgb(14, 14, 14);

@@ -13,7 +13,6 @@
  #header {
      background-image: url(./images/banner.avif);
      min-height: 600px;
-     width:2000px;
 }
   #header .top-header {
     display: flex;

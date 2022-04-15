@@ -12,7 +12,7 @@
 }
  #header {
      background-image: url(./images/hada.avif);
-     min-height: 900px;
+     min-height: 600px;
 }
   #header .top-header {
     display: flex;
@@ -59,7 +59,7 @@
 
 /* done */
   #header .bot-header { 
- height: 500px;
+ height: 200px;
  display: flex;
  justify-content: center;
  align-items: center;

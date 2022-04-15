@@ -11,8 +11,8 @@
     background:#262626;
 }
  #header {
-     background-image: url(./images/hada.png);
-     min-height: 400px;
+     background-image: url(./images/banner.avif);
+     min-height: 600px;
 }
   #header .top-header {
     display: flex;
@@ -59,10 +59,35 @@
 
 /* done */
   #header .bot-header { 
- height: 300px;
+ height: 500px;
  display: flex;
  justify-content: center;
  align-items: center;
+}
+  #header .bot-header .intro {
+    width:80%;
+    height: 30%;
+    text-align: center;
+    padding-top:50px;
+    color:rgb(255, 255, 255);
+    position:absolute;
+    background:rgb(14, 14, 14);
+   
+}
+
+  #header .bot-header .intro button {
+    width:200px;
+    height: 40px;
+    margin:0px 10px;
+    margin-top:20px;
+    background:transparent;
+    border:1px solid #fff;
+    color:#fff;
+    transition: all 0.5s;
+}
+  #header .bot-header .intro button:hover {
+    background:#fff;
+    color:#000;
 }
 
 #content {
@@ -71,7 +96,7 @@
 }
 #content #services {
     width: 100%;
-    min-height: 500px;
+    min-height: 700px;
     border:1px solid gray;
 }
 #content #services img {

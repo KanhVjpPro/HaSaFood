@@ -212,8 +212,8 @@
     justify-content: center;
 }
 #content #products .list-products .product {
-    width: 700px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
     background:rgb(236, 231, 231);
     margin:20px ;
     overflow: hidden;

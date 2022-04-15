@@ -59,7 +59,7 @@
 
 /* done */
   #header .bot-header { 
- height: 200px;
+ height: 500px;
  display: flex;
  justify-content: center;
  align-items: center;
@@ -96,7 +96,7 @@
 }
 #content #services {
     width: 100%;
-    min-height: 700px;
+    min-height: 300px;
     border:1px solid gray;
 }
 #content #services img {
